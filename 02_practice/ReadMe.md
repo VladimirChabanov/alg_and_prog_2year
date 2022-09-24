@@ -12,3 +12,4 @@
 
 5. [Бросание Игральной Кости (Кубика)](https://www.codeabbey.com/index/task_view/dice-rolling--ru);
 
+- [Контест](https://contest.yandex.ru/contest/40592/enter/).
