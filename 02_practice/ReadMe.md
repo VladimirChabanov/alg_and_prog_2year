@@ -6,4 +6,4 @@
 
 ### Практика 2. Решение простейших задач [[контест](https://contest.yandex.ru/contest/40842/enter/)] [[тест](https://moodle.cfuv.ru/mod/quiz/view.php?id=515034)]
 
-### Практика3. Решение простейших задач [[контест](https://contest.yandex.ru/contest/41007/enter/)] [[тест](https://moodle.cfuv.ru/mod/quiz/view.php?id=518718)]
+### Практика 3. Решение простейших задач [[контест](https://contest.yandex.ru/contest/41007/enter/)] [[тест](https://moodle.cfuv.ru/mod/quiz/view.php?id=518718)]
