@@ -3,3 +3,5 @@
 ### Лекция 2. Управления потоком исполнения [[pdf]](./lecture_02/presentation.pdf) [[pptx]](./lecture_02/presentation.pptx) [[стрим]](https://youtu.be/c8klH4BgONg) [[код]](./lecture_02/code)
 
 ### Лекция 3. Разделение кода на функции [pdf] [pptx] [[стрим]](https://youtu.be/zayQwq7WAW0) [код]
+
+### Лекция 4. Аргументы по умолчанию и структуры [pdf] [pptx] [[стрим]](https://youtu.be/iLFYZGrUhCw) [код]
