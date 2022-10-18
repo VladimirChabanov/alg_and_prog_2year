@@ -6,4 +6,6 @@
 
 ### Практика 2. Решение простейших задач [[контест](https://contest.yandex.ru/contest/40842/enter/)] [[тест](https://moodle.cfuv.ru/mod/quiz/view.php?id=515034)]
 
-### Практика 3. Решение простейших задач [[контест](https://contest.yandex.ru/contest/41007/enter/)] [[тест](https://moodle.cfuv.ru/mod/quiz/view.php?id=518718)]
+### Практика 3. Использование функций [[контест](https://contest.yandex.ru/contest/41007/enter/)] [[тест](https://moodle.cfuv.ru/mod/quiz/view.php?id=518718)]
+
+### Практика 4. Использование стандартных структур [контест] [[тест](https://moodle.cfuv.ru/mod/quiz/view.php?id=522274)]
