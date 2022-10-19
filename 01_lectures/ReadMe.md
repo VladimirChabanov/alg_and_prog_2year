@@ -5,3 +5,5 @@
 ### Лекция 3. Разделение кода на функции [pdf] [pptx] [[стрим]](https://youtu.be/zayQwq7WAW0) [код]
 
 ### Лекция 4. Аргументы по умолчанию и структуры [pdf] [pptx] [[стрим]](https://youtu.be/iLFYZGrUhCw) [код]
+
+### Лекция 5. Основные структуры данных [[pdf]](./lecture_05/presentation.pdf) [[pptx]](./lecture_05/presentation.pptx) [[стрим]](https://youtu.be/t-iPBizJx2E) [[код]](./lecture_05/code)
