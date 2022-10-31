@@ -12,6 +12,8 @@
 
 ### Практика 5. Структуры данных и алгоритмы [[контест](https://contest.yandex.ru/contest/41744/enter/)] [[тест](https://moodle.cfuv.ru/mod/quiz/view.php?id=526497)]
 
+### Кейс [[задание](./case.md)]
+
 <br>
 
 ### Просроченные задания [[контест](https://contest.yandex.ru/contest/41693/enter/)]
