@@ -9,3 +9,5 @@
 ### Лекция 5. Основные структуры данных [[pdf]](./lecture_05/presentation.pdf) [[pptx]](./lecture_05/presentation.pptx) [[стрим]](https://youtu.be/t-iPBizJx2E) [[код]](./lecture_05/code)
 
 ### Лекция 6. Введение в ООП. Инкапсуляция [[pdf]](./lecture_06/presentation.pdf) [[pptx]](./lecture_06/presentation.pptx) [[стрим]](https://youtu.be/PouX4gJGvXQ) [[код]](./lecture_06/code)
+
+### Лекция 7. Введение в ООП. Наследование [[pdf]](./lecture_07/presentation.pdf) [[pptx]](./lecture_07/presentation.pptx) [[стрим]](https://youtu.be/SPtYa03FRKQ) [[код]](./lecture_07/code)
