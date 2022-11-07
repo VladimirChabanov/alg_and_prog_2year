@@ -14,7 +14,7 @@
 
 ### Практика 6. Введение в ООП [-] [-]
 
-### Практика 7. Введение в ООП [контест] [[тест](https://moodle.cfuv.ru/mod/quiz/view.php?id=544976)]
+### Практика 7. Введение в ООП [[контест](https://contest.yandex.ru/contest/42642/enter/)] [[тест](https://moodle.cfuv.ru/mod/quiz/view.php?id=544976)]
 
 ### Кейс [[задание](./case.md)]
 
