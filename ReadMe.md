@@ -9,4 +9,4 @@
 - [Лекционные занятия](./01_lectures/ReadMe.md)
 - [Практические занятия](./02_practice/ReadMe.md)
 - [Самостоятельная работа](./03_individual/ReadMe.md)
-- [Рекомендуемые источники](./04_sources/ReadMe.md)
+- [Рекомендуемые источники](./05_sources/ReadMe.md)
