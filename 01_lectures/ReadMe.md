@@ -11,3 +11,5 @@
 ### Лекция 6. Введение в ООП. Инкапсуляция [[pdf]](./lecture_06/presentation.pdf) [[pptx]](./lecture_06/presentation.pptx) [[стрим]](https://youtu.be/PouX4gJGvXQ) [[код]](./lecture_06/code)
 
 ### Лекция 7. Введение в ООП. Наследование [[pdf]](./lecture_07/presentation.pdf) [[pptx]](./lecture_07/presentation.pptx) [[стрим]](https://youtu.be/SPtYa03FRKQ) [[код]](./lecture_07/code)
+
+### Лекция 8. Перечисления. Пространства имён. Перегрузка операторов [[pdf]](./lecture_08/presentation.pdf) [[pptx]](./lecture_08/presentation.pptx) [[стрим]](https://youtu.be/wk3GxguqbnI) [[код]](./lecture_08/code)
